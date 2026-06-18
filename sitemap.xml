@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://glattaleros.ch/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://glattaleros.ch/</loc>
+</url>
+<url>
+<loc>https://glattaleros.ch/glattaleros.html</loc>
+<lastmod>2026-06-18T22:07:56+02:00</lastmod>
+<image:image>
+<image:loc>https://glattaleros.ch/media/posts/1/monkey-monkey-dancing.gif</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://glattaleros.ch/kontakt.html</loc>
+<lastmod>2026-06-18T22:14:47+02:00</lastmod>
+</url>
+<url>
+<loc>https://glattaleros.ch/sponsoren.html</loc>
+<lastmod>2026-06-18T22:18:11+02:00</lastmod>
+</url>
+<url>
+<loc>https://glattaleros.ch/strava-2.html</loc>
+<lastmod>2026-06-18T22:12:27+02:00</lastmod>
+</url>
+<url>
+<loc>https://glattaleros.ch/ueber-uns-2.html</loc>
+<lastmod>2026-06-18T22:18:18+02:00</lastmod>
+</url>
+</urlset>
