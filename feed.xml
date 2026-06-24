@@ -3,10 +3,30 @@
     <title>Glattaleros</title>
     <link href="https://glattaleros.ch/feed.xml" rel="self" />
     <link href="https://glattaleros.ch" />
-    <updated>1970-01-01T01:00:00+01:00</updated>
+    <updated>2026-06-24T18:33:29+02:00</updated>
     <author>
         <name>Josua</name>
     </author>
     <id>https://glattaleros.ch</id>
 
+    <entry>
+        <title>post 1</title>
+        <author>
+            <name>Josua</name>
+        </author>
+        <link href="https://glattaleros.ch/post-1.html"/>
+        <id>https://glattaleros.ch/post-1.html</id>
+
+        <updated>2026-06-24T18:04:13+02:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    blablabla
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>blablabla</p>
+            ]]>
+        </content>
+    </entry>
 </feed>

@@ -5,10 +5,24 @@
     "home_page_url": "https://glattaleros.ch",
     "feed_url": "https://glattaleros.ch/feed.json",
     "user_comment": "",
-    "icon": "https://glattaleros.ch/media/website/logo.png",
+    "icon": "https://glattaleros.ch/media/website/favicon-modified.png",
     "author": {
         "name": "Josua"
     },
     "items": [
+        {
+            "id": "https://glattaleros.ch/post-1.html",
+            "url": "https://glattaleros.ch/post-1.html",
+            "title": "post 1",
+            "summary": "blablabla",
+            "content_html": "<p>blablabla</p>",
+            "author": {
+                "name": "Josua"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-06-24T18:04:13+02:00",
+            "date_modified": "2026-06-24T18:33:29+02:00"
+        }
     ]
 }
